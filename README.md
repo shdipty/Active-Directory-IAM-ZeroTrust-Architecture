@@ -2,7 +2,7 @@
 
 A virtual enterprise network integrating Active Directory, Keycloak IAM, and Zero Trust Architecture. Designed and implemented in VirtualBox using Windows Server, Ubuntu, and Kali Linux to demonstrate secure authentication and access control.
 
-**Contributor:** *Shadia Rahman Dipty (59958)*  
+**Contributor:** *Shadia Rahman Dipty *  
 **Tools & Platforms:** Oracle VirtualBox · Windows Server 2022 · Kali Linux · Ubuntu · Windows 10 · Keycloak · NGINX  
 
 ---
