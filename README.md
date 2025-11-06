@@ -141,7 +141,7 @@ A secure, unified virtual network where all users and devices were authenticated
 ### 🖼️ **Screenshots**
 
 1. **Active Directory Configuration**  
-[AD Configuration]
+[AD & DNS Configuration]
 
 <img width="940" height="528" alt="image" src="https://github.com/user-attachments/assets/c449ed72-e1ea-4f27-8bba-eec1ba9fd398" />
 <img width="940" height="528" alt="image" src="https://github.com/user-attachments/assets/0198043e-c0c5-4cf5-9796-a09c8e4be911" />
@@ -167,12 +167,23 @@ A secure, unified virtual network where all users and devices were authenticated
 
 
 2. **Keycloak IAM Integration**  
-   ![Keycloak Integration](https://github.com/shdipty/Nitzutz-app/blob/main/keycloak_integration.png)
+   ![Keycloak Integration]
+   <img width="940" height="1019" alt="image" src="https://github.com/user- attachments/assets/afbf0b2a-68bc-4a30-b8dc-c944eeacdebb" />
+   <img width="940" height="1019" alt="image" src="https://github.com/user-attachments/assets/ca4c4a78-0671-442c-9bbd-0a1a7c418dcf" />
+   <img width="940" height="997" alt="image" src="https://github.com/user-attachments/assets/677249de-eb74-4b39-a4f4-888301e75bc0" />
+<img width="940" height="997" alt="image" src="https://github.com/user-attachments/assets/f2cb0996-a362-4571-93d5-b419a9fdb67d" />
+<img width="940" height="997" alt="image" src="https://github.com/user-attachments/assets/7fdd4b0a-475c-4745-877c-91ff8ea3241d" />
+<img width="940" height="997" alt="image" src="https://github.com/user-attachments/assets/d47cadf6-ee52-42ed-8201-691c3137fe60" />
+<img width="940" height="997" alt="image" src="https://github.com/user-attachments/assets/98463532-9388-450c-8c8f-1c8a9adca0e8" />
+<img width="940" height="997" alt="image" src="https://github.com/user-attachments/assets/cdbc55ea-d9be-42b1-beb2-f5aaf59582eb" />
+<img width="940" height="997" alt="image" src="https://github.com/user-attachments/assets/ac43d731-8e81-4a4c-8673-facb6aa112ec" />
+   
+___
 
-3. **Zero Trust Server Setup**  
+4. **Zero Trust Server Setup**  
    ![ZTNA Setup](https://github.com/shdipty/Nitzutz-app/blob/main/nginx_ztna_setup.png)
 
-4. **Client Authentication Test**  
+5. **Client Authentication Test**  
    ![Client Access](https://github.com/shdipty/Nitzutz-app/blob/main/client_authentication.png)
 
 ---
