@@ -168,7 +168,6 @@ A secure, unified virtual network where all users and devices were authenticated
 
 2. **Keycloak IAM Integration**  
 [Keycloak Integration]
-   
 <img width="940" height="1019" alt="image" src="https://github.com/user- attachments/assets/afbf0b2a-68bc-4a30-b8dc-c944eeacdebb" />
 <img width="940" height="1019" alt="image" src="https://github.com/user-attachments/assets/ca4c4a78-0671-442c-9bbd-0a1a7c418dcf" />
 <img width="940" height="997" alt="image" src="https://github.com/user-attachments/assets/677249de-eb74-4b39-a4f4-888301e75bc0" />
