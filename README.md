@@ -164,7 +164,7 @@ A secure, unified virtual network where all users and devices were authenticated
 <img width="940" height="528" alt="image" src="https://github.com/user-attachments/assets/fb3d18fc-2abb-4afc-a69a-66198455054b" />
 
 
-
+---
 
 2. **Keycloak IAM Integration**  
 [Keycloak Integration]
@@ -177,11 +177,24 @@ A secure, unified virtual network where all users and devices were authenticated
 <img width="940" height="997" alt="image" src="https://github.com/user-attachments/assets/98463532-9388-450c-8c8f-1c8a9adca0e8" />
 <img width="940" height="997" alt="image" src="https://github.com/user-attachments/assets/cdbc55ea-d9be-42b1-beb2-f5aaf59582eb" />
 <img width="940" height="997" alt="image" src="https://github.com/user-attachments/assets/ac43d731-8e81-4a4c-8673-facb6aa112ec" />
-4. **Zero Trust Server Setup**  
-   ![ZTNA Setup](https://github.com/shdipty/Nitzutz-app/blob/main/nginx_ztna_setup.png)
 
-5. **Client Authentication Test**  
-   ![Client Access](https://github.com/shdipty/Nitzutz-app/blob/main/client_authentication.png)
+---
+
+4. **Zero Trust Server Setup**  
+[ZTNA Setup]
+<img width="940" height="642" alt="image" src="https://github.com/user-attachments/assets/0501cdb9-9db6-4abd-944c-0a4f0bfa157f" />
+<img width="940" height="810" alt="image" src="https://github.com/user-attachments/assets/62085d2f-4b63-4d49-8fd2-fc695466c9c6" />
+<img width="940" height="954" alt="image" src="https://github.com/user-attachments/assets/3e138b9a-262b-45be-ae59-270ef82d4e76" />
+
+
+---
+
+6. **Client Authentication Test**  
+[Client Access]
+
+<img width="940" height="793" alt="image" src="https://github.com/user-attachments/assets/a58950c0-d5a3-476d-88e6-4baae853b362" />
+<img width="940" height="797" alt="image" src="https://github.com/user-attachments/assets/288985c7-54c7-47dd-a3a4-44a3ef6110c4" />
+
 
 ---
 
